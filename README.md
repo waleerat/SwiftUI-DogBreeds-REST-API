@@ -38,14 +38,14 @@ After you install you will see `Podfile`
   pod 'AlamofireObjectMapper', '~> 5.2'
 ```
 
+## Setup Scene Delegate
+
 `Note :` The orentation is detected by Scene Delegate and Xcode 13 you may notice it doesn’t have an Info.plist file. See setup below to get  Info.plist . 
 
 You will put `@AppStorage` to every view that you want to be rotated.
 ```sh
 @AppStorage("isPortrait") private var isPortrait: Bool = false
-```
-## Setup Scene Delegate
-When you create a new SwiftUI project with Xcode 13 you may notice it doesn’t have an Info.plist file. 
+``` 
 
 1. Go to Application Scene Minifest  -> Scene Configuration -> Application Role
 2. Delegate Class Name  put `$(PRODUCT_MODULE_NAME).SceneDelegate`

@@ -23,10 +23,7 @@ I pick [Dog-API](https://dog.ceo/dog-api/documentation/) to improve my REST API 
 
 ## How to setup project
 1. Clone project to your Mac
-2. Setup firebase  [See](https://firebase.google.com/docs/ios/setup)
-3. Enable Firebase and Firestore [See](https://console.firebase.google.com/)
-4. import your own GoogleService-Info.plist to the project
-5. run pod install in Terminal
+2. run pod install in Terminal
 
 ```sh
  run pod install

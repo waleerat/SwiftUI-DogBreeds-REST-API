@@ -4,7 +4,7 @@
  ### Xcode Version 13.0
  ###### SwiftUI, Alamofire, ObjectMapper, AlamofireObjectMapper, Kingfisher
 
-I pick [Dog-API](https://dog.ceo/dog-api/documentation/) to improve my REST API skill because I could not do it in a progrmming test. I had always kept it in my mind that I would improve it one day. 
+I pick [Dog-API](https://dog.ceo/dog-api/documentation/) to improve my REST API skill because I could not do it in a progrmming test some months ago. I had always kept it in my mind that I would prove that I can do it.  
 
 ### The idea
 

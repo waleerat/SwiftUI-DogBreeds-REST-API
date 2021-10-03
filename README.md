@@ -4,6 +4,8 @@
  ### Xcode Version 13.0
  ###### SwiftUI, Alamofire, ObjectMapper
 
+
+
  ### SwiftUI-DogBreeds-REST-API
 
 
@@ -22,6 +24,16 @@
 ```sh
  run pod install
 ```
+
+After you install you will see `Podfile`
+
+```sh
+  pod 'Alamofire', '~> 4.7'
+  pod 'ObjectMapper', '~> 3.5'
+  pod 'Kingfisher', '~> 6.0'
+  pod 'AlamofireObjectMapper', '~> 5.2'
+```
+
 
 ## Check these files
 

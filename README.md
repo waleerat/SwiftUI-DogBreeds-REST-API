@@ -2,12 +2,18 @@
 
  # Dog API
  ### Xcode Version 13.0
- ###### SwiftUI, Alamofire, ObjectMapper
+ ###### SwiftUI, Alamofire, ObjectMapper, AlamofireObjectMapper, Kingfisher
 
+I pick [Dog-API](https://dog.ceo/dog-api/documentation/) to improve my REST API skill because I could not do it in a progrmming test. I had always kept it in my mind that I would improve it one day. 
 
+### The idea is that App 
+
+1. Featch data form Dog-API with `Alamofire` only when the App loaded and use `ObjectMapper` save to Model object `[BreedModel]`. 
+2. Use `@EnvironmentObject var dogVM: BreedVM` to pass values between views. 
+3. Check orientation mode with `SceneDelegate` then save to `@AppStorage`. 
+4. Use `StaggeredGrid` helper view for the better GridView.
 
  ### SwiftUI-DogBreeds-REST-API
-
 
  <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/SwiftUI-DogBreeds-REST-API/dog-1.png" width="30%" height="30%"> |
  <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/SwiftUI-DogBreeds-REST-API/dog-2.png" width="30%" height="30%"> |

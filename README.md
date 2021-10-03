@@ -55,7 +55,7 @@ When you create a new SwiftUI project with Xcode 13 you may notice it doesn’t 
 4. Set `Allow Arbitrary Loads` -> `App Transport Security Settings` for requst API. 
 
 
-<img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/SwiftUI-DogBreeds-REST-API/info.png" width="30%" height="30%">
+<img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/SwiftUI-DogBreeds-REST-API/info.png" width="70%" height="70%">
 
 
 ## Check these files

@@ -6,7 +6,7 @@
 
 I pick [Dog-API](https://dog.ceo/dog-api/documentation/) to improve my REST API skill because I could not do it in a progrmming test. I had always kept it in my mind that I would improve it one day. 
 
-### The idea is that App 
+### The idea
 
 1. Featch data form Dog-API with `Alamofire` only when the App loaded and use `ObjectMapper` save to Model object `[BreedModel]`. 
 2. Use `@EnvironmentObject var dogVM: BreedVM` to pass values between views. 

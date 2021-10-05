@@ -5,8 +5,6 @@
 //  Created by Waleerat Gottlieb on 2021-10-01.
 //
 
-//https://github.com/acidfilez/dog-api
-
 import SwiftUI
 import Kingfisher
 
